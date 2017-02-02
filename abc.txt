@@ -1,15 +1,6 @@
-<<<<<<< HEAD
-<<<<<<< Updated upstream
-committed file
-=======
-
-
-tagging for data
->>>>>>> Stashed changes
-=======
 hello harish how are you
 vi editor
 harish updated
 for adding
 
->>>>>>> harish
+
