@@ -1,5 +1,9 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 HI git hub
 =======
 for merging
+>>>>>>> harish
+=======
+move to git hub
 >>>>>>> harish
